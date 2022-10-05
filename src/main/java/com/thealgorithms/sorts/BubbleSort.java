@@ -3,7 +3,7 @@ package com.thealgorithms.sorts;
 import static com.thealgorithms.sorts.SortUtils.*;
 
 /**
- * @author Varun Upadhyay (https://github.com/varunu28)
+ * @author Srishti (https://github.com/mad-alpha)
  * @author Podshivalov Nikita (https://github.com/nikitap492)
  * @see SortAlgorithm
  */
